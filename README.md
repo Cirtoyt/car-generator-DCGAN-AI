@@ -11,4 +11,4 @@ The algorithm trains two networks in parallel, a generator and a discriminator, 
 - Numby
 - os
 - IPython.display's HTML
-- - argparse
+- argparse
